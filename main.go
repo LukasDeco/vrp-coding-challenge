@@ -124,7 +124,6 @@ func main() {
 		}
 	}
 
-	// fmt.Printf("cost: %v\n", cost)
 	logSlices(possibleSchedules[minCostIndex].routes)
 }
 
